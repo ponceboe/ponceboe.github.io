@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ponceboe.github.io/sitemap.ponceboe.gz
+Sitemap: https://ponceboe.github.io/app/sitemap.ponceboe.gz
+Sitemap: https://ponceboe.github.io/assets/sitemap.ponceboe.gz
+Sitemap: https://ponceboe.github.io/css/sitemap.ponceboe.gz
+Sitemap: https://ponceboe.github.io/data/sitemap.ponceboe.gz
+Sitemap: https://ponceboe.github.io/includes/sitemap.ponceboe.gz
+Sitemap: https://ponceboe.github.io/item/sitemap.ponceboe.gz
+Sitemap: https://ponceboe.github.io/src/sitemap.ponceboe.gz
